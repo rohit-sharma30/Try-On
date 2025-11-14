@@ -1,0 +1,5 @@
+{
+  "name": "Try on",
+  "description": "An AI-powered app for outfit try-on, image generation, editing, analysis, and video creation using Gemini models.",
+  "requestFramePermissions": []
+}
